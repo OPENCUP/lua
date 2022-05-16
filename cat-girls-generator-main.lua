@@ -1,9 +1,3 @@
---// Settings
-getgenv().UseDiscordHook = false -- false will use Workspace folder of your exploit to save pictures.
-
--- Works only with UseDiscordHook boolean set to true.
-getgenv().Webhook = ""
-
 --// Obfuscated by MSV2:
 
 _, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
